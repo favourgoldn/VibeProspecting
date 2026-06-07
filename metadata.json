@@ -1,0 +1,6 @@
+{
+  "name": "VibeProspecting",
+  "description": "Enterprise-grade AI prospecting platform. Discover, qualify, enrich, and engage ideal leads using simple natural language and intent-driven buyer signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
